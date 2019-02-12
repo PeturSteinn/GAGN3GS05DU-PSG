@@ -1,0 +1,18 @@
+Skrifið Python forrit sem býr til testgögn yfir fög(courses) og einkunnir í þeim.
+
+Notið cirka 10 kúrsa og 1000 einkunnir per kúrs.
+
+Þið þurfið að finna einhverja normalkúrfu yfir einkunnadreifingu og nota hana til
+að útbúa gögnin og gefa þeim raunverulegan blæ.
+
+Prófið síðan að gera sama fjölda af einkunnum með algerlega random einkunnum.
+
+Látið forritið ykkar reikna/finna eftirfarandi.
+Hæsta einkunn   og líka fjöldi með þá einkunn
+Lægsta einkunn  og líka fjöldi með þá einkunn
+Meðaltalseinkunn
+Miðgildi gagnanna.
+
+Einkunnir skulu vera á bilinu 0.0 - 10.0  og gefa skal í hálfum og heilum
+
+Bjóðið notandanum uppá að vista gögnin.

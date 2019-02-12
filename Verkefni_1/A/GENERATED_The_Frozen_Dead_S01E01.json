@@ -1,0 +1,2374 @@
+{
+  "english": {
+    "date": "s",
+    "studio": "s",
+    "translators": ["Nigga", "Hehe", "Lul"],
+    "id": {
+      "1": {
+        "start": "00:02:16,000",
+        "end": "00:02:19,520",
+        "text": "THE FROZEN DEAD"
+      },
+      "2": {
+        "start": "00:03:50,080",
+        "end": "00:03:51,160",
+        "text": "Captain Servaz?"
+      },
+      "3": {
+        "start": "00:03:51,960",
+        "end": "00:03:53,160",
+        "text": "Yeah?"
+      },
+      "4": {
+        "start": "00:03:53,320",
+        "end": "00:03:56,480",
+        "text": "Hi, I'm Captain Ziegler,\nhead of the St. Martin detective squad."
+      },
+      "5": {
+        "start": "00:03:57,680",
+        "end": "00:03:58,880",
+        "text": "Have you been briefed?"
+      },
+      "6": {
+        "start": "00:03:59,040",
+        "end": "00:04:00,200",
+        "text": "Not really."
+      },
+      "7": {
+        "start": "00:04:01,080",
+        "end": "00:04:02,720",
+        "text": "Come, I'll show you."
+      },
+      "8": {
+        "start": "00:04:18,040",
+        "end": "00:04:19,320",
+        "text": "May I?"
+      },
+      "9": {
+        "start": "00:04:19,480",
+        "end": "00:04:20,600",
+        "text": "It's up to you."
+      },
+      "10": {
+        "start": "00:04:34,040",
+        "end": "00:04:35,200",
+        "text": "Do you know the area?"
+      },
+      "11": {
+        "start": "00:04:37,200",
+        "end": "00:04:38,280",
+        "text": "Yes, I do."
+      },
+      "12": {
+        "start": "00:05:39,480",
+        "end": "00:05:40,920",
+        "text": "That's enough!"
+      },
+      "13": {
+        "start": "00:05:42,000",
+        "end": "00:05:43,000",
+        "text": "You can't take it?"
+      },
+      "14": {
+        "start": "00:06:19,560",
+        "end": "00:06:22,040",
+        "text": "Thanks for coming\nso soon, Martin."
+      },
+      "15": {
+        "start": "00:06:22,200",
+        "end": "00:06:23,320",
+        "text": "Madam prosecutor."
+      },
+      "16": {
+        "start": "00:06:29,080",
+        "end": "00:06:30,360",
+        "text": "That's the surprise?"
+      },
+      "17": {
+        "start": "00:06:32,000",
+        "end": "00:06:33,960",
+        "text": "I'm no good at presents."
+      },
+      "18": {
+        "start": "00:06:36,240",
+        "end": "00:06:38,480",
+        "text": "-Can I borrow him for 2 minutes?\n-Of course."
+      },
+      "19": {
+        "start": "00:06:42,960",
+        "end": "00:06:46,480",
+        "text": "I'm sure it's a pain coming\nall this way for a horse."
+      },
+      "20": {
+        "start": "00:06:46,640",
+        "end": "00:06:48,320",
+        "text": "But I've got pressure from above."
+      },
+      "21": {
+        "start": "00:06:48,480",
+        "end": "00:06:49,600",
+        "text": "Because of a horse?"
+      },
+      "22": {
+        "start": "00:06:49,760",
+        "end": "00:06:50,720",
+        "text": "No."
+      },
+      "23": {
+        "start": "00:06:51,560",
+        "end": "00:06:55,240",
+        "text": "Because of the owner,\na certain Eric Lombard."
+      },
+      "24": {
+        "start": "00:06:55,400",
+        "end": "00:06:57,080",
+        "text": "That animal was worth 600,000"
+      },
+      "25": {
+        "start": "00:06:57,240",
+        "end": "00:07:00,000",
+        "text": "and he owns one of the\nbiggest factories in the region."
+      },
+      "26": {
+        "start": "00:07:01,160",
+        "end": "00:07:03,800",
+        "text": "He's not yet 40 but he's head\nof a listed company."
+      },
+      "27": {
+        "start": "00:07:03,960",
+        "end": "00:07:07,440",
+        "text": "Cathy, I'd rather you put\nsomeone else on this job."
+      },
+      "28": {
+        "start": "00:07:08,120",
+        "end": "00:07:10,320",
+        "text": "I don't want to get back into politics,"
+      },
+      "29": {
+        "start": "00:07:10,480",
+        "end": "00:07:12,720",
+        "text": "and I've got 3 homeless murdered\nin Toulouse."
+      },
+      "30": {
+        "start": "00:07:14,280",
+        "end": "00:07:16,800",
+        "text": "You know shit always rolls downhill."
+      },
+      "31": {
+        "start": "00:07:16,960",
+        "end": "00:07:19,680",
+        "text": "It's very clear they want you\non the team."
+      },
+      "32": {
+        "start": "00:07:19,840",
+        "end": "00:07:20,920",
+        "text": "There's nobody else?"
+      },
+      "33": {
+        "start": "00:07:22,360",
+        "end": "00:07:24,720",
+        "text": "Lombard knows powerful people."
+      },
+      "34": {
+        "start": "00:07:24,880",
+        "end": "00:07:26,520",
+        "text": "They see you as a good detective."
+      },
+      "35": {
+        "start": "00:07:27,240",
+        "end": "00:07:29,000",
+        "text": "Even if you don't believe that now."
+      },
+      "36": {
+        "start": "00:07:33,240",
+        "end": "00:07:35,280",
+        "text": "Please Cathy, I don't want to be here."
+      },
+      "37": {
+        "start": "00:07:36,360",
+        "end": "00:07:37,320",
+        "text": "Please."
+      },
+      "38": {
+        "start": "00:07:38,040",
+        "end": "00:07:39,000",
+        "text": "Martin..."
+      },
+      "39": {
+        "start": "00:07:39,160",
+        "end": "00:07:41,240",
+        "text": "I don't want to tell them\nyou've refused."
+      },
+      "40": {
+        "start": "00:07:42,120",
+        "end": "00:07:45,160",
+        "text": "Just an expert consultation\nto start the investigation."
+      },
+      "41": {
+        "start": "00:07:50,800",
+        "end": "00:07:52,760",
+        "text": "Two days, then I'm leaving."
+      },
+      "42": {
+        "start": "00:08:01,040",
+        "end": "00:08:02,840",
+        "text": "It's good that you're here."
+      },
+      "43": {
+        "start": "00:08:03,000",
+        "end": "00:08:05,200",
+        "text": "All the Intervention Brigade guys\nare on a big drugs case."
+      },
+      "44": {
+        "start": "00:08:05,360",
+        "end": "00:08:07,520",
+        "text": "We're not really used to twisted stuff."
+      },
+      "45": {
+        "start": "00:08:07,680",
+        "end": "00:08:10,960",
+        "text": "I'm only here to give you a hand.\nIt's your case, Captain."
+      },
+      "46": {
+        "start": "00:08:12,440",
+        "end": "00:08:13,920",
+        "text": "Aren't we too formal?"
+      },
+      "47": {
+        "start": "00:08:14,080",
+        "end": "00:08:15,400",
+        "text": "If you think so."
+      },
+      "48": {
+        "start": "00:08:15,560",
+        "end": "00:08:18,040",
+        "text": "Listen, I don't understand..."
+      },
+      "49": {
+        "start": "00:08:18,880",
+        "end": "00:08:20,760",
+        "text": "You found the corpse at 7am."
+      },
+      "50": {
+        "start": "00:08:20,920",
+        "end": "00:08:23,480",
+        "text": "Why did you only call\nthe police at 7.30?"
+      },
+      "51": {
+        "start": "00:08:23,640",
+        "end": "00:08:25,520",
+        "text": "I had to go down to find a signal."
+      },
+      "52": {
+        "start": "00:08:26,120",
+        "end": "00:08:27,360",
+        "text": "OK."
+      },
+      "53": {
+        "start": "00:08:27,520",
+        "end": "00:08:29,440",
+        "text": "So you discovered this thing,"
+      },
+      "54": {
+        "start": "00:08:30,080",
+        "end": "00:08:32,920",
+        "text": "you tried to call using\nyour mobile phone."
+      },
+      "55": {
+        "start": "00:08:33,080",
+        "end": "00:08:35,160",
+        "text": "It didn't work, so you left."
+      },
+      "56": {
+        "start": "00:08:35,320",
+        "end": "00:08:38,000",
+        "text": "-Correct.\n-Why didn't you use the factory phone?"
+      },
+      "57": {
+        "start": "00:08:38,360",
+        "end": "00:08:40,320",
+        "text": "Dammit, I told you it wasn't us."
+      },
+      "58": {
+        "start": "00:08:40,480",
+        "end": "00:08:43,320",
+        "text": "Find the sicko who did it\ninstead of hassling us."
+      },
+      "59": {
+        "start": "00:08:44,000",
+        "end": "00:08:45,000",
+        "text": "Sit down."
+      },
+      "60": {
+        "start": "00:08:49,760",
+        "end": "00:08:50,720",
+        "text": "May I?"
+      },
+      "61": {
+        "start": "00:08:52,840",
+        "end": "00:08:54,200",
+        "text": "Could you stand up?"
+      },
+      "62": {
+        "start": "00:08:54,800",
+        "end": "00:08:56,080",
+        "text": "She told me to sit down."
+      },
+      "63": {
+        "start": "00:08:56,240",
+        "end": "00:08:57,200",
+        "text": "Get up."
+      },
+      "64": {
+        "start": "00:09:04,400",
+        "end": "00:09:06,800",
+        "text": "How much will I find\nin your locker?"
+      },
+      "65": {
+        "start": "00:09:11,600",
+        "end": "00:09:13,240",
+        "text": "Louder, I can't hear you."
+      },
+      "66": {
+        "start": "00:09:13,400",
+        "end": "00:09:15,280",
+        "text": "The cold mornings are tough."
+      },
+      "67": {
+        "start": "00:09:15,440",
+        "end": "00:09:17,440",
+        "text": "Sometimes we smoke a little joint."
+      },
+      "68": {
+        "start": "00:09:17,600",
+        "end": "00:09:19,360",
+        "text": "That's why you hesitated\nto call?"
+      },
+      "69": {
+        "start": "00:09:22,640",
+        "end": "00:09:23,640",
+        "text": "Go on, get out."
+      },
+      "70": {
+        "start": "00:09:25,800",
+        "end": "00:09:27,040",
+        "text": "Get lost, I said."
+      },
+      "71": {
+        "start": "00:09:37,000",
+        "end": "00:09:38,080",
+        "text": "Could you explain?"
+      },
+      "72": {
+        "start": "00:09:39,120",
+        "end": "00:09:40,080",
+        "text": "Can you explain?"
+      },
+      "73": {
+        "start": "00:09:40,960",
+        "end": "00:09:44,000",
+        "text": "To be quick and effective,\nyou must prioritise."
+      },
+      "74": {
+        "start": "00:09:44,160",
+        "end": "00:09:46,320",
+        "text": "That guy isn't a priority."
+      },
+      "75": {
+        "start": "00:10:16,560",
+        "end": "00:10:18,080",
+        "text": "How did it get up here?"
+      },
+      "76": {
+        "start": "00:10:19,680",
+        "end": "00:10:22,320",
+        "text": "We searched the cabin\nbut found nothing."
+      },
+      "77": {
+        "start": "00:10:25,920",
+        "end": "00:10:27,280",
+        "text": "Where's the head?"
+      },
+      "78": {
+        "start": "00:10:29,480",
+        "end": "00:10:32,680",
+        "text": "Is there another way to get here\nbesides the cable car?"
+      },
+      "79": {
+        "start": "00:10:32,840",
+        "end": "00:10:33,880",
+        "text": "Yes."
+      },
+      "80": {
+        "start": "00:10:34,040",
+        "end": "00:10:36,520",
+        "text": "There's a little road\nbehind the factory."
+      },
+      "81": {
+        "start": "00:10:37,840",
+        "end": "00:10:39,840",
+        "text": "Shall we go and have a look?"
+      },
+      "82": {
+        "start": "00:10:40,000",
+        "end": "00:10:41,000",
+        "text": "Of course."
+      },
+      "83": {
+        "start": "00:10:47,720",
+        "end": "00:10:49,120",
+        "text": "You should wear a parka."
+      },
+      "84": {
+        "start": "00:10:49,280",
+        "end": "00:10:50,240",
+        "text": "Yeah."
+      },
+      "85": {
+        "start": "00:10:55,240",
+        "end": "00:10:58,320",
+        "text": "-Where does this road go?\n-Into the valley."
+      },
+      "86": {
+        "start": "00:11:01,080",
+        "end": "00:11:02,720",
+        "text": "The Lombards own all this."
+      },
+      "87": {
+        "start": "00:11:02,880",
+        "end": "00:11:05,920",
+        "text": "Well, Eric Lombard...\nHis parents are dead."
+      },
+      "88": {
+        "start": "00:11:07,000",
+        "end": "00:11:08,920",
+        "text": "When did the son take over\nthe business?"
+      },
+      "89": {
+        "start": "00:11:09,080",
+        "end": "00:11:11,440",
+        "text": "Six months ago.\nNot everyone's happy with it."
+      },
+      "90": {
+        "start": "00:11:12,160",
+        "end": "00:11:13,000",
+        "text": "Why not?"
+      },
+      "91": {
+        "start": "00:11:13,960",
+        "end": "00:11:16,880",
+        "text": "The father knew his company\nwas important to the local economy,"
+      },
+      "92": {
+        "start": "00:11:17,040",
+        "end": "00:11:18,720",
+        "text": "and made sure everyone benefited."
+      },
+      "93": {
+        "start": "00:11:18,880",
+        "end": "00:11:20,920",
+        "text": "It's not the same with his son."
+      },
+      "94": {
+        "start": "00:11:21,920",
+        "end": "00:11:24,960",
+        "text": "He wants to clean up\n\"polluting regional industries\"..."
+      },
+      "95": {
+        "start": "00:11:25,840",
+        "end": "00:11:27,120",
+        "text": "Not a bad idea."
+      },
+      "96": {
+        "start": "00:11:27,280",
+        "end": "00:11:29,440",
+        "text": "No, but lots of people don't like it."
+      },
+      "97": {
+        "start": "00:11:31,920",
+        "end": "00:11:33,240",
+        "text": "What the hell's that?"
+      },
+      "98": {
+        "start": "00:12:37,640",
+        "end": "00:12:38,600",
+        "text": "Got a torch?"
+      },
+      "99": {
+        "start": "00:12:39,680",
+        "end": "00:12:40,640",
+        "text": "Yes."
+      },
+      "100": {
+        "start": "00:12:42,040",
+        "end": "00:12:42,880",
+        "text": "Here."
+      },
+      "101": {
+        "start": "00:13:14,120",
+        "end": "00:13:17,520",
+        "text": "WARNIER PSYCHIATRIC UNIT"
+      },
+      "102": {
+        "start": "00:13:17,680",
+        "end": "00:13:19,920",
+        "text": "Trying to punish yourself again?"
+      },
+      "103": {
+        "start": "00:13:20,960",
+        "end": "00:13:22,320",
+        "text": "I can't be punished."
+      },
+      "104": {
+        "start": "00:13:24,160",
+        "end": "00:13:25,240",
+        "text": "Why not?"
+      },
+      "105": {
+        "start": "00:13:26,680",
+        "end": "00:13:29,760",
+        "text": "When you're punished,\nyou start again."
+      },
+      "106": {
+        "start": "00:13:29,920",
+        "end": "00:13:31,680",
+        "text": "And you can't start again?"
+      },
+      "107": {
+        "start": "00:13:33,880",
+        "end": "00:13:37,480",
+        "text": "You mean that nothing\ncan forgive your crime?"
+      },
+      "108": {
+        "start": "00:13:39,280",
+        "end": "00:13:41,200",
+        "text": "I had a dream last night."
+      },
+      "109": {
+        "start": "00:13:44,080",
+        "end": "00:13:46,200",
+        "text": "A dream I hadn't had for years."
+      },
+      "110": {
+        "start": "00:13:47,840",
+        "end": "00:13:48,920",
+        "text": "I dreamt..."
+      },
+      "111": {
+        "start": "00:13:52,600",
+        "end": "00:13:54,400",
+        "text": "I was cutting up my mother."
+      },
+      "112": {
+        "start": "00:13:55,520",
+        "end": "00:13:57,440",
+        "text": "But everyone dreams, Francis."
+      },
+      "113": {
+        "start": "00:13:58,800",
+        "end": "00:14:01,160",
+        "text": "-You don't have to...\n-I won't be punished!"
+      },
+      "114": {
+        "start": "00:14:02,920",
+        "end": "00:14:04,640",
+        "text": "And your first victim..."
+      },
+      "115": {
+        "start": "00:14:05,280",
+        "end": "00:14:06,920",
+        "text": "Was he a priest, Francis?"
+      },
+      "116": {
+        "start": "00:14:08,760",
+        "end": "00:14:09,840",
+        "text": "Why him?"
+      },
+      "117": {
+        "start": "00:14:11,280",
+        "end": "00:14:12,440",
+        "text": "Why a priest?"
+      },
+      "118": {
+        "start": "00:14:13,360",
+        "end": "00:14:14,480",
+        "text": "Did you know him?"
+      },
+      "119": {
+        "start": "00:14:18,160",
+        "end": "00:14:19,760",
+        "text": "-Dr Ferney?\n-Yes, Francis."
+      },
+      "120": {
+        "start": "00:14:20,880",
+        "end": "00:14:23,320",
+        "text": "Tell her not to ask me again, please."
+      },
+      "121": {
+        "start": "00:14:25,880",
+        "end": "00:14:29,240",
+        "text": "Dr Berg, let's leave Francis to rest."
+      },
+      "122": {
+        "start": "00:14:29,840",
+        "end": "00:14:30,840",
+        "text": "Right, Francis?"
+      },
+      "123": {
+        "start": "00:14:36,680",
+        "end": "00:14:39,520",
+        "text": "He refused to absolve your sins,\ndidn't he?"
+      },
+      "124": {
+        "start": "00:14:41,360",
+        "end": "00:14:42,880",
+        "text": "He'll never forgive me."
+      },
+      "125": {
+        "start": "00:14:45,400",
+        "end": "00:14:46,360",
+        "text": "Who?"
+      },
+      "126": {
+        "start": "00:14:49,240",
+        "end": "00:14:51,760",
+        "text": "Who will never forgive you, Francis?"
+      },
+      "127": {
+        "start": "00:14:52,520",
+        "end": "00:14:53,520",
+        "text": "God?"
+      },
+      "128": {
+        "start": "00:15:23,880",
+        "end": "00:15:25,640",
+        "text": "It's secured.\nThey're waiting."
+      },
+      "129": {
+        "start": "00:15:25,800",
+        "end": "00:15:27,880",
+        "text": "OK, I'll send 2 guys immediately."
+      },
+      "130": {
+        "start": "00:15:28,400",
+        "end": "00:15:29,560",
+        "text": "Is this his head?"
+      },
+      "131": {
+        "start": "00:15:30,400",
+        "end": "00:15:31,400",
+        "text": "Same colour."
+      },
+      "132": {
+        "start": "00:15:32,640",
+        "end": "00:15:34,280",
+        "text": "Same mark. Seems likely."
+      },
+      "133": {
+        "start": "00:15:34,640",
+        "end": "00:15:36,160",
+        "text": "We found this in the blood."
+      },
+      "134": {
+        "start": "00:15:36,320",
+        "end": "00:15:39,640",
+        "text": "-What? A hair?\n-Perhaps."
+      },
+      "135": {
+        "start": "00:15:39,800",
+        "end": "00:15:40,640",
+        "text": "This is huge."
+      },
+      "136": {
+        "start": "00:15:40,800",
+        "end": "00:15:42,040",
+        "text": "What have you got?"
+      },
+      "137": {
+        "start": "00:15:42,200",
+        "end": "00:15:44,080",
+        "text": "Not much.\nHe wasn't killed here."
+      },
+      "138": {
+        "start": "00:15:46,640",
+        "end": "00:15:50,600",
+        "text": "Would a horse like that follow\na stranger without making a fuss?"
+      },
+      "139": {
+        "start": "00:15:51,040",
+        "end": "00:15:52,240",
+        "text": "That's what I wonder."
+      },
+      "140": {
+        "start": "00:15:52,400",
+        "end": "00:15:55,160",
+        "text": "We started looking for\nprints of feet, hooves, tyres..."
+      },
+      "141": {
+        "start": "00:15:55,320",
+        "end": "00:15:57,080",
+        "text": "But in such a busy place..."
+      },
+      "142": {
+        "start": "00:16:01,240",
+        "end": "00:16:04,400",
+        "text": "I've gathered the staff\nso you can question them."
+      },
+      "143": {
+        "start": "00:16:04,560",
+        "end": "00:16:07,000",
+        "text": "-Is Mr Lombard here?\n-No, he's in London."
+      },
+      "144": {
+        "start": "00:16:07,160",
+        "end": "00:16:10,480",
+        "text": "He'll be here as soon as he can.\nFreedom was his favourite."
+      },
+      "145": {
+        "start": "00:16:10,640",
+        "end": "00:16:13,160",
+        "text": "-Mr Lombard is very sad...\n-Who used to ride this horse?"
+      },
+      "146": {
+        "start": "00:16:13,320",
+        "end": "00:16:15,080",
+        "text": "Nobody except Mr Lombard and Ben."
+      },
+      "147": {
+        "start": "00:16:15,400",
+        "end": "00:16:16,280",
+        "text": "Ben?"
+      },
+      "148": {
+        "start": "00:16:16,440",
+        "end": "00:16:19,160",
+        "text": "Ben McFinley, the man\nwho looks after the horses."
+      },
+      "149": {
+        "start": "00:16:19,320",
+        "end": "00:16:20,320",
+        "text": "Is he here?"
+      },
+      "150": {
+        "start": "00:16:21,440",
+        "end": "00:16:24,600",
+        "text": "No. He's not feeling well,\nhe didn't want to join us."
+      },
+      "151": {
+        "start": "00:16:25,440",
+        "end": "00:16:26,680",
+        "text": "Where can we find him?"
+      },
+      "152": {
+        "start": "00:16:51,080",
+        "end": "00:16:53,040",
+        "text": "-Mr McFinley?\n-Yes?"
+      },
+      "153": {
+        "start": "00:16:53,840",
+        "end": "00:16:57,360",
+        "text": "Captain Servaz, from CRPJ Toulouse.\nI've got a few questions about Freedom."
+      },
+      "154": {
+        "start": "00:16:57,520",
+        "end": "00:16:58,360",
+        "text": "Go ahead."
+      },
+      "155": {
+        "start": "00:16:58,520",
+        "end": "00:16:59,880",
+        "text": "When did you last see him?"
+      },
+      "156": {
+        "start": "00:17:00,040",
+        "end": "00:17:01,160",
+        "text": "Yesterday at 8."
+      },
+      "157": {
+        "start": "00:17:01,840",
+        "end": "00:17:04,600",
+        "text": "-Where were you last night?\n-I was out with a woman."
+      },
+      "158": {
+        "start": "00:17:04,760",
+        "end": "00:17:06,800",
+        "text": "So she can confirm that?"
+      },
+      "159": {
+        "start": "00:17:06,960",
+        "end": "00:17:08,520",
+        "text": "I don't know, she's married."
+      },
+      "160": {
+        "start": "00:17:08,680",
+        "end": "00:17:12,000",
+        "text": "Mr McFinley, could you get down\nso we can talk properly?"
+      },
+      "161": {
+        "start": "00:17:14,080",
+        "end": "00:17:15,160",
+        "text": "Stop!"
+      },
+      "162": {
+        "start": "00:17:30,160",
+        "end": "00:17:32,040",
+        "text": "Aren't you on duty in Block C?"
+      },
+      "163": {
+        "start": "00:17:32,200",
+        "end": "00:17:33,880",
+        "text": "No, they're in activities now."
+      },
+      "164": {
+        "start": "00:17:34,040",
+        "end": "00:17:35,520",
+        "text": "Already? Shit, I'm late."
+      },
+      "165": {
+        "start": "00:17:35,680",
+        "end": "00:17:38,320",
+        "text": "You did well earlier with Imbert."
+      },
+      "166": {
+        "start": "00:17:38,480",
+        "end": "00:17:39,680",
+        "text": "I mean it."
+      },
+      "167": {
+        "start": "00:17:39,840",
+        "end": "00:17:45,200",
+        "text": "It's great he tolerated you so quickly,\nbut what you made him say... Wow!"
+      },
+      "168": {
+        "start": "00:17:45,880",
+        "end": "00:17:48,000",
+        "text": "So can I see the detainees in Block A?"
+      },
+      "169": {
+        "start": "00:17:48,680",
+        "end": "00:17:51,120",
+        "text": "That again?\nYou don't give up."
+      },
+      "170": {
+        "start": "00:17:51,280",
+        "end": "00:17:52,920",
+        "text": "Don't worry, you'll be allowed."
+      },
+      "171": {
+        "start": "00:17:53,080",
+        "end": "00:17:56,760",
+        "text": "But you've only been here 15 days\nand even I had to wait several weeks."
+      },
+      "172": {
+        "start": "00:17:56,920",
+        "end": "00:18:00,080",
+        "text": "-Elisabeth! We must work on the budget.\n-Can't it wait?"
+      },
+      "173": {
+        "start": "00:18:00,240",
+        "end": "00:18:01,240",
+        "text": "No, it can't."
+      },
+      "174": {
+        "start": "00:18:01,680",
+        "end": "00:18:03,480",
+        "text": "We'll talk about it later."
+      },
+      "175": {
+        "start": "00:18:03,640",
+        "end": "00:18:05,120",
+        "text": "You're a killjoy, Fran\u00e7ois!"
+      },
+      "176": {
+        "start": "00:18:05,280",
+        "end": "00:18:07,440",
+        "text": "I know, your patients\nover my accounting."
+      },
+      "177": {
+        "start": "00:18:15,960",
+        "end": "00:18:17,480",
+        "text": "Who knows what's logical..."
+      },
+      "178": {
+        "start": "00:18:17,640",
+        "end": "00:18:21,560",
+        "text": "If for whatever reason he really\nheld a grudge against his boss,"
+      },
+      "179": {
+        "start": "00:18:21,960",
+        "end": "00:18:23,480",
+        "text": "he'd attack him directly."
+      },
+      "180": {
+        "start": "00:18:24,280",
+        "end": "00:18:28,280",
+        "text": "That guy really loves horses,\nhe wouldn't commit such butchery."
+      },
+      "181": {
+        "start": "00:18:28,920",
+        "end": "00:18:31,240",
+        "text": "He did try to escape,\nand he was armed."
+      },
+      "182": {
+        "start": "00:18:33,040",
+        "end": "00:18:35,000",
+        "text": "When will they let you see him?"
+      },
+      "183": {
+        "start": "00:18:35,360",
+        "end": "00:18:36,960",
+        "text": "Excuse me, your room is ready."
+      },
+      "184": {
+        "start": "00:18:37,120",
+        "end": "00:18:38,200",
+        "text": "Thanks."
+      },
+      "185": {
+        "start": "00:18:41,800",
+        "end": "00:18:44,120",
+        "text": "I know I promised,\nbut I want to leave tonight."
+      },
+      "186": {
+        "start": "00:18:48,280",
+        "end": "00:18:52,080",
+        "text": "What? You've got an interesting suspect,\na DNA analysis underway."
+      },
+      "187": {
+        "start": "00:18:52,240",
+        "end": "00:18:54,720",
+        "text": "Ziegler's great,\nshe'll be fine on her own."
+      },
+      "188": {
+        "start": "00:18:54,880",
+        "end": "00:18:58,480",
+        "text": "I'm going back to Toulouse,\nI've got too much work there."
+      },
+      "189": {
+        "start": "00:18:58,640",
+        "end": "00:19:01,720",
+        "text": "It's funny, I thought you'd\nask me if you could stay longer."
+      },
+      "190": {
+        "start": "00:19:03,360",
+        "end": "00:19:05,480",
+        "text": "Let me go Cathy,\nyou know I'm tired."
+      },
+      "191": {
+        "start": "00:19:07,520",
+        "end": "00:19:11,120",
+        "text": "He's been locked up for 10 years.\nThanks to you, he'll never be free."
+      },
+      "192": {
+        "start": "00:19:11,280",
+        "end": "00:19:13,240",
+        "text": "He killed 6 people before I realised."
+      },
+      "193": {
+        "start": "00:19:13,400",
+        "end": "00:19:16,400",
+        "text": "Martin, Hirtmann tricked everyone,\nnot only you."
+      },
+      "194": {
+        "start": "00:19:17,400",
+        "end": "00:19:19,040",
+        "text": "He was my daughter's godfather, Cathy."
+      },
+      "195": {
+        "start": "00:19:19,200",
+        "end": "00:19:23,080",
+        "text": "How about me? He was my colleague\nfor almost 12 years."
+      },
+      "196": {
+        "start": "00:19:23,240",
+        "end": "00:19:26,960",
+        "text": "I had lunch with him almost every day,\nI saw him more than my husband."
+      },
+      "197": {
+        "start": "00:19:30,680",
+        "end": "00:19:33,000",
+        "text": "We really were fooled, weren't we."
+      },
+      "198": {
+        "start": "00:19:35,240",
+        "end": "00:19:37,160",
+        "text": "Pull yourself together."
+      },
+      "199": {
+        "start": "00:19:37,960",
+        "end": "00:19:40,160",
+        "text": "You should\nhave been promoted years ago."
+      },
+      "200": {
+        "start": "00:19:40,600",
+        "end": "00:19:43,640",
+        "text": "Draw a line under it\nand move on."
+      },
+      "201": {
+        "start": "00:19:44,360",
+        "end": "00:19:46,320",
+        "text": "Let me go Cathy."
+      },
+      "202": {
+        "start": "00:19:46,960",
+        "end": "00:19:47,800",
+        "text": "Please."
+      },
+      "203": {
+        "start": "00:19:50,560",
+        "end": "00:19:52,600",
+        "text": "You know, I've just understood."
+      },
+      "204": {
+        "start": "00:19:53,720",
+        "end": "00:19:56,240",
+        "text": "For all these years,\nI thought you felt guilty,"
+      },
+      "205": {
+        "start": "00:19:56,400",
+        "end": "00:19:57,920",
+        "text": "but actually you're afraid."
+      },
+      "206": {
+        "start": "00:20:00,400",
+        "end": "00:20:03,200",
+        "text": "You're letting your fear take over,\nMartin."
+      },
+      "207": {
+        "start": "00:20:03,800",
+        "end": "00:20:04,920",
+        "text": "How much is that?"
+      },
+      "208": {
+        "start": "00:21:08,440",
+        "end": "00:21:09,760",
+        "text": "Hirtmann?"
+      },
+      "209": {
+        "start": "00:21:10,120",
+        "end": "00:21:11,320",
+        "text": "More origami?"
+      },
+      "210": {
+        "start": "00:21:15,680",
+        "end": "00:21:17,320",
+        "text": "It relaxes me, my friend."
+      },
+      "211": {
+        "start": "00:21:20,440",
+        "end": "00:21:21,400",
+        "text": "Thanks."
+      },
+      "212": {
+        "start": "00:21:24,320",
+        "end": "00:21:25,800",
+        "text": "She loved the elephant."
+      },
+      "213": {
+        "start": "00:21:26,360",
+        "end": "00:21:27,360",
+        "text": "I used to sculpt."
+      },
+      "214": {
+        "start": "00:21:27,520",
+        "end": "00:21:29,880",
+        "text": "Bring me wood and a knife,\nand I'll make her a unicorn."
+      },
+      "215": {
+        "start": "00:21:30,040",
+        "end": "00:21:31,960",
+        "text": "A knife? Really?"
+      },
+      "216": {
+        "start": "00:21:32,640",
+        "end": "00:21:34,080",
+        "text": "I guess that's a 'no'."
+      },
+      "217": {
+        "start": "00:21:52,200",
+        "end": "00:21:53,800",
+        "text": "<i>How are you? Not too cold?</i>"
+      },
+      "218": {
+        "start": "00:21:53,960",
+        "end": "00:21:56,560",
+        "text": "How could I be cold after\nthose winters in Quebec?"
+      },
+      "219": {
+        "start": "00:21:56,880",
+        "end": "00:21:58,560",
+        "text": "<i>And how's your work?</i>"
+      },
+      "220": {
+        "start": "00:21:59,080",
+        "end": "00:22:00,440",
+        "text": "<i>You look tired.</i>"
+      },
+      "221": {
+        "start": "00:22:01,000",
+        "end": "00:22:02,880",
+        "text": "<i>Are they very difficult?</i>"
+      },
+      "222": {
+        "start": "00:22:03,040",
+        "end": "00:22:05,760",
+        "text": "Mum, they're disabled,\nthey're not aliens."
+      },
+      "223": {
+        "start": "00:22:05,920",
+        "end": "00:22:07,520",
+        "text": "<i>Don't put words in my mouth.</i>"
+      },
+      "224": {
+        "start": "00:22:07,680",
+        "end": "00:22:12,120",
+        "text": "<i>But the other day, I saw a documentary</i>\n<i>about a re-education centre like yours</i>"
+      },
+      "225": {
+        "start": "00:22:12,280",
+        "end": "00:22:14,040",
+        "text": "<i>and it looked tough, that's all.</i>"
+      },
+      "226": {
+        "start": "00:22:14,440",
+        "end": "00:22:17,360",
+        "text": "Well yeah it's tough,\nbut it's worse for them."
+      },
+      "227": {
+        "start": "00:22:17,520",
+        "end": "00:22:18,840",
+        "text": "<i>I miss you, darling.</i>"
+      },
+      "228": {
+        "start": "00:22:20,160",
+        "end": "00:22:22,600",
+        "text": "I'd have loved to have Christmas\nwith you."
+      },
+      "229": {
+        "start": "00:22:22,680",
+        "end": "00:22:23,520",
+        "text": "Yeah, me too."
+      },
+      "230": {
+        "start": "00:22:23,920",
+        "end": "00:22:27,000",
+        "text": "Mum, I need to go.\nI'll call you later."
+      },
+      "231": {
+        "start": "00:22:27,160",
+        "end": "00:22:28,240",
+        "text": "<i>Good night.</i>"
+      },
+      "232": {
+        "start": "00:23:21,760",
+        "end": "00:23:22,600",
+        "text": "Yes?"
+      },
+      "233": {
+        "start": "00:23:22,760",
+        "end": "00:23:24,200",
+        "text": "Are you OK?\nI heard a noise."
+      },
+      "234": {
+        "start": "00:23:24,360",
+        "end": "00:23:26,560",
+        "text": "It's nothing, it's just my mirror..."
+      },
+      "235": {
+        "start": "00:23:27,040",
+        "end": "00:23:28,120",
+        "text": "-Shit.\n-Show me."
+      },
+      "236": {
+        "start": "00:23:28,280",
+        "end": "00:23:29,680",
+        "text": "No, no, it's fine, really."
+      },
+      "237": {
+        "start": "00:23:29,840",
+        "end": "00:23:31,640",
+        "text": "-Show me.\n-No, but it's nothing."
+      },
+      "238": {
+        "start": "00:23:32,680",
+        "end": "00:23:35,800",
+        "text": "-Don't worry, I'll clean it...\n-No, leave it Alex!"
+      },
+      "239": {
+        "start": "00:23:36,720",
+        "end": "00:23:39,760",
+        "text": "-Where's the antiseptic?\n-I don't think I've got any."
+      },
+      "240": {
+        "start": "00:23:39,920",
+        "end": "00:23:40,920",
+        "text": "It's OK, I've found it."
+      },
+      "241": {
+        "start": "00:23:41,480",
+        "end": "00:23:42,560",
+        "text": "Sit down."
+      },
+      "242": {
+        "start": "00:23:48,320",
+        "end": "00:23:50,640",
+        "text": "Hey, it's the first time\nI've been in your room."
+      },
+      "243": {
+        "start": "00:23:52,200",
+        "end": "00:23:54,000",
+        "text": "I hoped it'd be different."
+      },
+      "244": {
+        "start": "00:23:54,320",
+        "end": "00:23:55,720",
+        "text": "You're being a pain."
+      },
+      "245": {
+        "start": "00:23:55,920",
+        "end": "00:23:58,640",
+        "text": "OK. Did you feel it stinging?"
+      },
+      "246": {
+        "start": "00:24:00,120",
+        "end": "00:24:01,920",
+        "text": "-Here you are, miss.\n-Thanks."
+      },
+      "247": {
+        "start": "00:24:04,000",
+        "end": "00:24:05,560",
+        "text": "Want to tell me what happened?"
+      },
+      "248": {
+        "start": "00:24:07,400",
+        "end": "00:24:09,600",
+        "text": "Go on. I saw you\nwalk past the canteen."
+      },
+      "249": {
+        "start": "00:24:10,280",
+        "end": "00:24:11,280",
+        "text": "You looked really angry."
+      },
+      "250": {
+        "start": "00:24:11,840",
+        "end": "00:24:14,280",
+        "text": "No, it's Ferney."
+      },
+      "251": {
+        "start": "00:24:15,520",
+        "end": "00:24:18,240",
+        "text": "She still won't let me\nwork with Block A patients."
+      },
+      "252": {
+        "start": "00:24:19,760",
+        "end": "00:24:21,560",
+        "text": "Are they so different?"
+      },
+      "253": {
+        "start": "00:24:22,240",
+        "end": "00:24:23,240",
+        "text": "No, not really."
+      },
+      "254": {
+        "start": "00:24:24,000",
+        "end": "00:24:25,520",
+        "text": "But it's you who has the files."
+      },
+      "255": {
+        "start": "00:24:25,680",
+        "end": "00:24:27,840",
+        "text": "I'd like to be a mouse to observe them."
+      },
+      "256": {
+        "start": "00:24:28,600",
+        "end": "00:24:29,640",
+        "text": "Who'd you visit first?"
+      },
+      "257": {
+        "start": "00:24:29,800",
+        "end": "00:24:31,840",
+        "text": "-Hirtmann?\n-What do you think?"
+      },
+      "258": {
+        "start": "00:24:32,000",
+        "end": "00:24:33,080",
+        "text": "Of course."
+      },
+      "259": {
+        "start": "00:24:34,880",
+        "end": "00:24:37,400",
+        "text": "-Is he so scary?\n-No."
+      },
+      "260": {
+        "start": "00:24:37,800",
+        "end": "00:24:39,960",
+        "text": "It's weird to think\nhe killed those girls."
+      },
+      "261": {
+        "start": "00:24:44,200",
+        "end": "00:24:46,480",
+        "text": "-Can I ask you a favour?\n-Yes."
+      },
+      "262": {
+        "start": "00:24:47,240",
+        "end": "00:24:49,400",
+        "text": "My badge won't let me access Block A."
+      },
+      "263": {
+        "start": "00:24:50,440",
+        "end": "00:24:52,600",
+        "text": "So I wanted to know..."
+      },
+      "264": {
+        "start": "00:24:52,760",
+        "end": "00:24:54,880",
+        "text": "if you'd lend me yours."
+      },
+      "265": {
+        "start": "00:24:55,040",
+        "end": "00:24:57,800",
+        "text": "-You're not serious, Diane.\n-It's just to see them."
+      },
+      "266": {
+        "start": "00:24:57,960",
+        "end": "00:24:59,960",
+        "text": "You're crazy,\nyou want to get us fired?"
+      },
+      "267": {
+        "start": "00:26:08,040",
+        "end": "00:26:09,240",
+        "text": "Servaz."
+      },
+      "268": {
+        "start": "00:26:09,400",
+        "end": "00:26:12,480",
+        "text": "<i>It's Irene. We've found a snow plough</i>\n<i>covered in blood and hair.</i>"
+      },
+      "269": {
+        "start": "00:26:12,640",
+        "end": "00:26:14,200",
+        "text": "<i>It could be from our horse.</i>"
+      },
+      "270": {
+        "start": "00:26:16,080",
+        "end": "00:26:18,160",
+        "text": "-Where are you?\n<i>-Downstairs.</i>"
+      },
+      "271": {
+        "start": "00:26:29,320",
+        "end": "00:26:31,320",
+        "text": "You left me alone last night."
+      },
+      "272": {
+        "start": "00:26:33,280",
+        "end": "00:26:35,160",
+        "text": "I won't sleep here\nwhile he's here."
+      },
+      "273": {
+        "start": "00:26:35,320",
+        "end": "00:26:36,840",
+        "text": "Why not?"
+      },
+      "274": {
+        "start": "00:26:37,000",
+        "end": "00:26:40,080",
+        "text": "I work with him,\nI don't want him seeing me in PJs."
+      },
+      "275": {
+        "start": "00:26:40,240",
+        "end": "00:26:41,680",
+        "text": "There's always an excuse."
+      },
+      "276": {
+        "start": "00:26:47,840",
+        "end": "00:26:49,080",
+        "text": "Morning."
+      },
+      "277": {
+        "start": "00:26:49,240",
+        "end": "00:26:50,200",
+        "text": "Morning."
+      },
+      "278": {
+        "start": "00:26:51,960",
+        "end": "00:26:54,400",
+        "text": "-Shall we go?\n-Let's go."
+      },
+      "279": {
+        "start": "00:26:54,560",
+        "end": "00:26:55,520",
+        "text": "Bye."
+      },
+      "280": {
+        "start": "00:26:57,560",
+        "end": "00:26:58,800",
+        "text": "Where's this snow plough?"
+      },
+      "281": {
+        "start": "00:26:58,960",
+        "end": "00:27:00,600",
+        "text": "Outside,\nI came here in it."
+      },
+      "282": {
+        "start": "00:27:02,120",
+        "end": "00:27:03,920",
+        "text": "The Forensic Team is taking care of it."
+      },
+      "283": {
+        "start": "00:27:04,800",
+        "end": "00:27:07,320",
+        "text": "We're going straight to the owner's,\nis that OK?"
+      },
+      "284": {
+        "start": "00:27:07,480",
+        "end": "00:27:09,480",
+        "text": "As long as we don't go in PJs."
+      },
+      "285": {
+        "start": "00:27:17,880",
+        "end": "00:27:19,200",
+        "text": "What about the hair?"
+      },
+      "286": {
+        "start": "00:27:21,760",
+        "end": "00:27:24,680",
+        "text": "OK. Thanks Lucas,\ncall me when you know."
+      },
+      "287": {
+        "start": "00:27:26,560",
+        "end": "00:27:27,520",
+        "text": "So?"
+      },
+      "288": {
+        "start": "00:27:28,480",
+        "end": "00:27:32,760",
+        "text": "No human traces this time. They found\nanimal blood and hair from Freedom."
+      },
+      "289": {
+        "start": "00:27:37,480",
+        "end": "00:27:40,760",
+        "text": "Morning captain. Your guys warned me.\nCome on in."
+      },
+      "290": {
+        "start": "00:27:47,440",
+        "end": "00:27:51,360",
+        "text": "No, usually I'm at the garage.\nSomeone else takes care of the shop,"
+      },
+      "291": {
+        "start": "00:27:51,520",
+        "end": "00:27:53,800",
+        "text": "but her son's ill so\nI'm working in the shop."
+      },
+      "292": {
+        "start": "00:27:53,960",
+        "end": "00:27:56,480",
+        "text": "Is it just you at the garage\nand vehicle hire?"
+      },
+      "293": {
+        "start": "00:27:56,640",
+        "end": "00:28:00,120",
+        "text": "My employee and apprentice\nare on holiday this week."
+      },
+      "294": {
+        "start": "00:28:00,280",
+        "end": "00:28:02,120",
+        "text": "That's why I was late\nreporting the theft."
+      },
+      "295": {
+        "start": "00:28:02,280",
+        "end": "00:28:04,600",
+        "text": "Have you seen\nanything unusual?"
+      },
+      "296": {
+        "start": "00:28:05,000",
+        "end": "00:28:05,960",
+        "text": "No..."
+      },
+      "297": {
+        "start": "00:28:06,880",
+        "end": "00:28:08,080",
+        "text": "And I pay attention."
+      },
+      "298": {
+        "start": "00:28:08,240",
+        "end": "00:28:12,680",
+        "text": "I've had a snowmobile stolen,\nbut I didn't expect a snow plough."
+      },
+      "299": {
+        "start": "00:28:13,560",
+        "end": "00:28:15,480",
+        "text": "And then they used it for..."
+      },
+      "300": {
+        "start": "00:28:16,400",
+        "end": "00:28:18,800",
+        "text": "Well if you recall anything,\nlet us know."
+      },
+      "301": {
+        "start": "00:28:21,760",
+        "end": "00:28:23,360",
+        "text": "That's just what you need."
+      },
+      "302": {
+        "start": "00:28:24,120",
+        "end": "00:28:26,960",
+        "text": "It's from last year.\nI'll give you a discount."
+      },
+      "303": {
+        "start": "00:28:29,840",
+        "end": "00:28:31,720",
+        "text": "What? Do I look like a pumpkin?"
+      },
+      "304": {
+        "start": "00:28:32,240",
+        "end": "00:28:33,960",
+        "text": "No, more like a carrot."
+      },
+      "305": {
+        "start": "00:28:34,400",
+        "end": "00:28:36,040",
+        "text": "Yeah, you enjoy mocking me."
+      },
+      "306": {
+        "start": "00:29:34,040",
+        "end": "00:29:35,040",
+        "text": "You OK?"
+      },
+      "307": {
+        "start": "00:29:38,000",
+        "end": "00:29:39,440",
+        "text": "You must think I'm pathetic."
+      },
+      "308": {
+        "start": "00:29:39,600",
+        "end": "00:29:40,880",
+        "text": "No, I've seen worse."
+      },
+      "309": {
+        "start": "00:29:41,800",
+        "end": "00:29:43,520",
+        "text": "I never got used to the smell."
+      },
+      "310": {
+        "start": "00:29:43,680",
+        "end": "00:29:45,440",
+        "text": "It would be odd if you did."
+      },
+      "311": {
+        "start": "00:29:46,080",
+        "end": "00:29:48,160",
+        "text": "We already know\nhe died of a heart attack"
+      },
+      "312": {
+        "start": "00:29:48,320",
+        "end": "00:29:51,920",
+        "text": "due to an overdose of anaesthetics\nor poison such as curare."
+      },
+      "313": {
+        "start": "00:29:52,080",
+        "end": "00:29:54,200",
+        "text": "The decapitation occurred post mortem,"
+      },
+      "314": {
+        "start": "00:29:54,360",
+        "end": "00:29:57,920",
+        "text": "and given the state of the skin\nand flesh, most likely with a chainsaw."
+      },
+      "315": {
+        "start": "00:29:58,080",
+        "end": "00:30:02,560",
+        "text": "He was then butchered with\na hunter's or butcher's knife."
+      },
+      "316": {
+        "start": "00:30:03,280",
+        "end": "00:30:05,120",
+        "text": "So anyone could have done it?"
+      },
+      "317": {
+        "start": "00:30:05,280",
+        "end": "00:30:09,120",
+        "text": "Yes. Any hunter accustomed\nto butchering a wild boar or deer."
+      },
+      "318": {
+        "start": "00:30:09,280",
+        "end": "00:30:10,120",
+        "text": "I'll be back."
+      },
+      "319": {
+        "start": "00:30:11,480",
+        "end": "00:30:13,960",
+        "text": "No, darling, it'll be fine, I promise."
+      },
+      "320": {
+        "start": "00:30:14,360",
+        "end": "00:30:15,920",
+        "text": "Eat with your mum tonight."
+      },
+      "321": {
+        "start": "00:30:16,080",
+        "end": "00:30:18,320",
+        "text": "That'll make me happy, OK?"
+      },
+      "322": {
+        "start": "00:30:18,680",
+        "end": "00:30:20,080",
+        "text": "<i>What are you going to do?</i>"
+      },
+      "323": {
+        "start": "00:30:20,240",
+        "end": "00:30:24,400",
+        "text": "Stop worrying about me,\nI'm your father not your son."
+      },
+      "324": {
+        "start": "00:30:25,240",
+        "end": "00:30:27,560",
+        "text": "I'm going to Vincent and Charlene's."
+      },
+      "325": {
+        "start": "00:30:27,720",
+        "end": "00:30:28,920",
+        "text": "I won't be alone."
+      },
+      "326": {
+        "start": "00:30:29,680",
+        "end": "00:30:30,720",
+        "text": "<i>OK then.</i>"
+      },
+      "327": {
+        "start": "00:30:31,400",
+        "end": "00:30:34,560",
+        "text": "<i>I called the office and Vincent said</i>\n<i>you were in Comminges.</i>"
+      },
+      "328": {
+        "start": "00:30:34,720",
+        "end": "00:30:35,920",
+        "text": "<i>Why didn't you say?</i>"
+      },
+      "329": {
+        "start": "00:30:36,080",
+        "end": "00:30:38,560",
+        "text": "Because I'll be back this evening."
+      },
+      "330": {
+        "start": "00:30:39,680",
+        "end": "00:30:42,280",
+        "text": "-OK with you?\n<i>-Where are you exactly?</i>"
+      },
+      "331": {
+        "start": "00:30:46,440",
+        "end": "00:30:48,080",
+        "text": "In St. Martin."
+      },
+      "332": {
+        "start": "00:30:48,240",
+        "end": "00:30:49,200",
+        "text": "<i>Because of him?</i>"
+      },
+      "333": {
+        "start": "00:30:49,360",
+        "end": "00:30:50,680",
+        "text": "Of course not."
+      },
+      "334": {
+        "start": "00:30:50,840",
+        "end": "00:30:54,960",
+        "text": "A horse was killed and as the owner's\na millionaire or billionaire,"
+      },
+      "335": {
+        "start": "00:30:55,120",
+        "end": "00:30:57,680",
+        "text": "we have to find the guy who\nwanted to make lasagne."
+      },
+      "336": {
+        "start": "00:30:57,840",
+        "end": "00:30:59,840",
+        "text": "<i>-Not funny, Dad.</i>\n-I know."
+      },
+      "337": {
+        "start": "00:31:00,000",
+        "end": "00:31:01,320",
+        "text": "Captain Servaz?"
+      },
+      "338": {
+        "start": "00:31:01,480",
+        "end": "00:31:02,440",
+        "text": "Got to go, sweetie."
+      },
+      "339": {
+        "start": "00:31:02,600",
+        "end": "00:31:04,720",
+        "text": "<i>-Call me this evening.</i>\n-I promise."
+      },
+      "340": {
+        "start": "00:31:06,400",
+        "end": "00:31:09,160",
+        "text": "Rapha\u00ebl Delaunay, local reporter\nat the Courier."
+      },
+      "341": {
+        "start": "00:31:09,320",
+        "end": "00:31:12,240",
+        "text": "I knew it wouldn't be long\nbefore you showed up."
+      },
+      "342": {
+        "start": "00:31:12,400",
+        "end": "00:31:14,920",
+        "text": "Better a decapitated horse\nthan a run-over dog, eh?"
+      },
+      "343": {
+        "start": "00:31:15,080",
+        "end": "00:31:18,560",
+        "text": "I'm happier to cover a case led by\nthe policeman who caught Hirtmann."
+      },
+      "344": {
+        "start": "00:31:18,720",
+        "end": "00:31:22,200",
+        "text": "Check your information.\nThe case is led by Captain Ziegler."
+      },
+      "345": {
+        "start": "00:31:22,360",
+        "end": "00:31:23,760",
+        "text": "Why are you here then?"
+      },
+      "346": {
+        "start": "00:31:25,000",
+        "end": "00:31:28,920",
+        "text": "Because he did military service\nin the cavalry. Will that do?"
+      },
+      "347": {
+        "start": "00:31:29,080",
+        "end": "00:31:32,280",
+        "text": "Come on Rapha\u00ebl, do us\na favour and let us work."
+      },
+      "348": {
+        "start": "00:31:34,040",
+        "end": "00:31:35,320",
+        "text": "One question, Captain."
+      },
+      "349": {
+        "start": "00:31:35,680",
+        "end": "00:31:38,160",
+        "text": "What's it like\nbeing so close to Julian Hirtmann?"
+      },
+      "350": {
+        "start": "00:31:38,320",
+        "end": "00:31:39,280",
+        "text": "Goodbye."
+      },
+      "351": {
+        "start": "00:31:44,040",
+        "end": "00:31:47,360",
+        "text": "The hospital called. McFinley's better.\nWe can question him."
+      },
+      "352": {
+        "start": "00:31:55,120",
+        "end": "00:31:56,160",
+        "text": "Where's the guard?"
+      },
+      "353": {
+        "start": "00:32:01,360",
+        "end": "00:32:02,320",
+        "text": "Shit."
+      },
+      "354": {
+        "start": "00:32:04,920",
+        "end": "00:32:06,160",
+        "text": "-McFinley?\n-Wait."
+      },
+      "355": {
+        "start": "00:32:11,000",
+        "end": "00:32:12,560",
+        "text": "-Captain!\n-Where were you?"
+      },
+      "356": {
+        "start": "00:32:12,720",
+        "end": "00:32:15,520",
+        "text": "A doctor said there was\na brawl downstairs."
+      },
+      "357": {
+        "start": "00:32:17,000",
+        "end": "00:32:18,160",
+        "text": "It was only 5 minutes."
+      },
+      "358": {
+        "start": "00:32:19,440",
+        "end": "00:32:20,680",
+        "text": "No, no, don't move."
+      },
+      "359": {
+        "start": "00:32:20,840",
+        "end": "00:32:23,800",
+        "text": "Bring him to me immediately\nif he shows up, OK?"
+      },
+      "360": {
+        "start": "00:32:26,160",
+        "end": "00:32:27,560",
+        "text": "Nothing at Lombard's."
+      },
+      "361": {
+        "start": "00:32:27,720",
+        "end": "00:32:30,400",
+        "text": "Well, we're sure the groom\nis involved now."
+      },
+      "362": {
+        "start": "00:32:30,840",
+        "end": "00:32:32,080",
+        "text": "Right, I'm off."
+      },
+      "363": {
+        "start": "00:32:32,640",
+        "end": "00:32:35,200",
+        "text": "Go meet your daughter.\nSend the report in two days."
+      },
+      "364": {
+        "start": "00:32:35,360",
+        "end": "00:32:36,520",
+        "text": "I take you to the hostel."
+      },
+      "365": {
+        "start": "00:32:48,720",
+        "end": "00:32:51,200",
+        "text": "-Happy Christmas.\n-But it's yours!"
+      },
+      "366": {
+        "start": "00:32:52,040",
+        "end": "00:32:53,000",
+        "text": "Take it."
+      },
+      "367": {
+        "start": "00:32:54,520",
+        "end": "00:32:56,960",
+        "text": "Well, it's goodbye then."
+      },
+      "368": {
+        "start": "00:32:57,120",
+        "end": "00:32:58,080",
+        "text": "Go on."
+      },
+      "369": {
+        "start": "00:33:00,080",
+        "end": "00:33:01,440",
+        "text": "Go on, you'll do great."
+      },
+      "370": {
+        "start": "00:33:02,440",
+        "end": "00:33:03,920",
+        "text": "Happy Christmas."
+      },
+      "371": {
+        "start": "00:33:04,200",
+        "end": "00:33:05,040",
+        "text": "Bye."
+      },
+      "372": {
+        "start": "00:33:38,920",
+        "end": "00:33:41,240",
+        "text": "Francis Imbert was tortured\nby his father,"
+      },
+      "373": {
+        "start": "00:33:41,400",
+        "end": "00:33:43,160",
+        "text": "always in front of his mother."
+      },
+      "374": {
+        "start": "00:33:43,320",
+        "end": "00:33:45,000",
+        "text": "He needed a witness."
+      },
+      "375": {
+        "start": "00:33:45,160",
+        "end": "00:33:49,560",
+        "text": "And as it was her who was tortured\nbefore her son was born,"
+      },
+      "376": {
+        "start": "00:33:49,720",
+        "end": "00:33:53,080",
+        "text": "the poor woman let Francis\nbe abused instead."
+      },
+      "377": {
+        "start": "00:33:54,120",
+        "end": "00:33:56,200",
+        "text": "I don't remember\nseeing that in his file."
+      },
+      "378": {
+        "start": "00:33:56,360",
+        "end": "00:33:58,880",
+        "text": "No, he only told me earlier."
+      },
+      "379": {
+        "start": "00:34:00,160",
+        "end": "00:34:01,840",
+        "text": "But it's due to you, Diane."
+      },
+      "380": {
+        "start": "00:34:02,960",
+        "end": "00:34:04,880",
+        "text": "You freed him from something."
+      },
+      "381": {
+        "start": "00:34:09,120",
+        "end": "00:34:11,160",
+        "text": "-Aren't you going to ask?\n-What?"
+      },
+      "382": {
+        "start": "00:34:12,040",
+        "end": "00:34:15,920",
+        "text": "To work with the patients in Block A.\nYou've been asking since the start."
+      },
+      "383": {
+        "start": "00:34:16,080",
+        "end": "00:34:17,400",
+        "text": "You mean you accept?"
+      },
+      "384": {
+        "start": "00:34:18,360",
+        "end": "00:34:19,880",
+        "text": "I think it's time."
+      },
+      "385": {
+        "start": "00:34:20,880",
+        "end": "00:34:21,880",
+        "text": "Thanks."
+      },
+      "386": {
+        "start": "00:34:24,200",
+        "end": "00:34:25,400",
+        "text": "Go on."
+      },
+      "387": {
+        "start": "00:35:41,480",
+        "end": "00:35:43,400",
+        "text": "-Happy Christmas!\n-Happy Christmas."
+      },
+      "388": {
+        "start": "00:35:54,520",
+        "end": "00:35:56,680",
+        "text": "Very funny. It's lucky\nsome of us work, eh?"
+      },
+      "389": {
+        "start": "00:35:56,840",
+        "end": "00:35:58,960",
+        "text": "We're slackers, is that right?"
+      },
+      "390": {
+        "start": "00:35:59,120",
+        "end": "00:36:00,360",
+        "text": "A load of slackers."
+      },
+      "391": {
+        "start": "00:36:01,360",
+        "end": "00:36:02,520",
+        "text": "Tell him, Vince."
+      },
+      "392": {
+        "start": "00:36:02,680",
+        "end": "00:36:03,640",
+        "text": "Tell me what?"
+      },
+      "393": {
+        "start": "00:36:03,800",
+        "end": "00:36:05,880",
+        "text": "-We caught the murderers.\n-No way."
+      },
+      "394": {
+        "start": "00:36:06,040",
+        "end": "00:36:07,960",
+        "text": "-This afternoon.\n-They're in custody?"
+      },
+      "395": {
+        "start": "00:36:08,120",
+        "end": "00:36:10,200",
+        "text": "You should have seen how\nwe screwed them."
+      },
+      "396": {
+        "start": "00:36:10,360",
+        "end": "00:36:13,920",
+        "text": "It's you who'd have got screwed\nif we hadn't been there!"
+      },
+      "397": {
+        "start": "00:36:14,080",
+        "end": "00:36:15,080",
+        "text": "Want to see them?"
+      },
+      "398": {
+        "start": "00:36:15,240",
+        "end": "00:36:18,080",
+        "text": "If you want to be Captain one day\nyou must understand..."
+      },
+      "399": {
+        "start": "00:36:18,240",
+        "end": "00:36:20,080",
+        "text": "you caught them, you deal with them!"
+      },
+      "400": {
+        "start": "00:36:20,240",
+        "end": "00:36:21,720",
+        "text": "Thank you Lord."
+      },
+      "401": {
+        "start": "00:36:22,960",
+        "end": "00:36:23,920",
+        "text": "Is the boss in?"
+      },
+      "402": {
+        "start": "00:36:24,080",
+        "end": "00:36:27,080",
+        "text": "He's just left, he's cooking tonight."
+      },
+      "403": {
+        "start": "00:36:27,240",
+        "end": "00:36:32,440",
+        "text": "Right then... Happy Christmas\nyou bunch of slackers!"
+      },
+      "404": {
+        "start": "00:36:32,600",
+        "end": "00:36:34,240",
+        "text": "Happy Christmas, Martin!"
+      },
+      "405": {
+        "start": "00:36:40,240",
+        "end": "00:36:44,320",
+        "text": "Martin! Where are you off to?"
+      },
+      "406": {
+        "start": "00:36:44,480",
+        "end": "00:36:45,960",
+        "text": "To see my daughter."
+      },
+      "407": {
+        "start": "00:36:46,120",
+        "end": "00:36:49,760",
+        "text": "Maud called. She asked if\nI'd really invited you round."
+      },
+      "408": {
+        "start": "00:36:50,880",
+        "end": "00:36:53,520",
+        "text": "-What did you say?\n-What do you think?"
+      },
+      "409": {
+        "start": "00:36:54,720",
+        "end": "00:36:58,440",
+        "text": "I'm tired. I didn't want to say\nI was spending Christmas Eve in bed."
+      },
+      "410": {
+        "start": "00:36:58,600",
+        "end": "00:36:59,840",
+        "text": "And why lie to me?"
+      },
+      "411": {
+        "start": "00:37:00,000",
+        "end": "00:37:02,080",
+        "text": "Because I don't want your pity either."
+      },
+      "412": {
+        "start": "00:37:02,240",
+        "end": "00:37:05,800",
+        "text": "OK, come and have dinner with us.\nWe've got enough food for a year."
+      },
+      "413": {
+        "start": "00:37:05,960",
+        "end": "00:37:07,200",
+        "text": "Vincent..."
+      },
+      "414": {
+        "start": "00:37:18,720",
+        "end": "00:37:21,800",
+        "text": "Small ball... Number 11."
+      },
+      "415": {
+        "start": "00:37:22,600",
+        "end": "00:37:23,440",
+        "text": "Oh yes!"
+      },
+      "416": {
+        "start": "00:37:28,320",
+        "end": "00:37:31,360",
+        "text": "Number 12... A 12?"
+      },
+      "417": {
+        "start": "00:37:32,240",
+        "end": "00:37:33,960",
+        "text": "12? No 12?"
+      },
+      "418": {
+        "start": "00:37:35,120",
+        "end": "00:37:36,680",
+        "text": "It turns again, it turns..."
+      },
+      "419": {
+        "start": "00:37:37,040",
+        "end": "00:37:38,320",
+        "text": "-What fun!\n-Yeah!"
+      },
+      "420": {
+        "start": "00:37:45,960",
+        "end": "00:37:49,720",
+        "text": "73! 73? 73?"
+      },
+      "421": {
+        "start": "00:37:49,880",
+        "end": "00:37:53,000",
+        "text": "-73! Pierre! Come get your prize!\n-Great Christmas Eve, huh?"
+      },
+      "422": {
+        "start": "00:37:53,160",
+        "end": "00:37:54,000",
+        "text": "Two years of this."
+      },
+      "423": {
+        "start": "00:37:54,160",
+        "end": "00:37:55,440",
+        "text": "Let's check first."
+      },
+      "424": {
+        "start": "00:37:55,800",
+        "end": "00:37:57,800",
+        "text": "I want to have kids\nso I get holidays off."
+      },
+      "425": {
+        "start": "00:37:58,160",
+        "end": "00:38:00,960",
+        "text": "It's your lucky day!\nShow me."
+      },
+      "426": {
+        "start": "00:38:01,680",
+        "end": "00:38:04,080",
+        "text": "I need a fag or I'll go mad.\nYou coming?"
+      },
+      "427": {
+        "start": "00:38:04,240",
+        "end": "00:38:05,080",
+        "text": "How great!"
+      },
+      "428": {
+        "start": "00:38:05,240",
+        "end": "00:38:06,920",
+        "text": "Bravo Pierre, happy Christmas!"
+      },
+      "429": {
+        "start": "00:38:07,080",
+        "end": "00:38:08,840",
+        "text": "Happy Christmas, Pierre!"
+      },
+      "430": {
+        "start": "00:38:09,000",
+        "end": "00:38:12,040",
+        "text": "-We haven't clapped for Pierre!\n-Let's clap nice and loud!"
+      },
+      "431": {
+        "start": "00:38:12,200",
+        "end": "00:38:13,800",
+        "text": "Pierre, happy Christmas!"
+      },
+      "432": {
+        "start": "00:38:15,640",
+        "end": "00:38:17,400",
+        "text": "-Shall we continue?\n-Let's!"
+      },
+      "433": {
+        "start": "00:38:17,560",
+        "end": "00:38:20,200",
+        "text": "-Why did you come to work here?\n-How so?"
+      },
+      "434": {
+        "start": "00:38:20,600",
+        "end": "00:38:24,920",
+        "text": "I don't know. You come from Montreal,\nyou don't know anyone in the region."
+      },
+      "435": {
+        "start": "00:38:25,840",
+        "end": "00:38:29,000",
+        "text": "All to spend time with guys who\nmake Jack the Ripper look cute."
+      },
+      "436": {
+        "start": "00:38:29,160",
+        "end": "00:38:30,240",
+        "text": "So why are you here?"
+      },
+      "437": {
+        "start": "00:38:31,440",
+        "end": "00:38:36,680",
+        "text": "Hey, you've been answering my questions\nwith another question since you arrived."
+      },
+      "438": {
+        "start": "00:38:36,840",
+        "end": "00:38:38,640",
+        "text": "What do you want me to say?"
+      },
+      "439": {
+        "start": "00:38:39,920",
+        "end": "00:38:41,680",
+        "text": "I was fed up with Canada."
+      },
+      "440": {
+        "start": "00:38:43,240",
+        "end": "00:38:44,560",
+        "text": "And to answer,"
+      },
+      "441": {
+        "start": "00:38:44,720",
+        "end": "00:38:48,560",
+        "text": "you don't hesitate when given the chance\nto work at a centre like Warnier."
+      },
+      "442": {
+        "start": "00:38:50,240",
+        "end": "00:38:51,840",
+        "text": "So why do you work here?"
+      },
+      "443": {
+        "start": "00:38:53,400",
+        "end": "00:38:57,720",
+        "text": "Around here there's not much choice.\nOld people, or psychiatrics."
+      },
+      "444": {
+        "start": "00:38:57,880",
+        "end": "00:39:00,600",
+        "text": "I was sick\nof dealing with old people."
+      },
+      "445": {
+        "start": "00:39:02,320",
+        "end": "00:39:04,360",
+        "text": "I'm going inside, I'm freezing."
+      },
+      "446": {
+        "start": "00:39:10,280",
+        "end": "00:39:11,560",
+        "text": "Have you finished?"
+      },
+      "447": {
+        "start": "00:39:12,920",
+        "end": "00:39:14,720",
+        "text": "What's your problem, Diane?"
+      },
+      "448": {
+        "start": "00:39:15,640",
+        "end": "00:39:17,840",
+        "text": "If you don't fancy me, why flirt?"
+      },
+      "449": {
+        "start": "00:40:45,160",
+        "end": "00:40:46,680",
+        "text": "You're allowed to look."
+      },
+      "450": {
+        "start": "00:40:48,440",
+        "end": "00:40:49,480",
+        "text": "She's beautiful."
+      },
+      "451": {
+        "start": "00:40:54,800",
+        "end": "00:40:59,240",
+        "text": "Fuck! Is it me\nor is the room spinning?"
+      },
+      "452": {
+        "start": "00:41:07,120",
+        "end": "00:41:10,600",
+        "text": "I've drunk too much too,\nI'm going to head off."
+      },
+      "453": {
+        "start": "00:41:12,760",
+        "end": "00:41:14,600",
+        "text": "Bye, old man.\nThanks."
+      },
+      "454": {
+        "start": "00:41:14,760",
+        "end": "00:41:16,520",
+        "text": "Yeah, happy Christmas."
+      },
+      "455": {
+        "start": "00:41:28,760",
+        "end": "00:41:29,800",
+        "text": "Martin?"
+      },
+      "456": {
+        "start": "00:41:36,680",
+        "end": "00:41:37,800",
+        "text": "Why did you come?"
+      },
+      "457": {
+        "start": "00:41:39,880",
+        "end": "00:41:43,640",
+        "text": "He invited me.\nI know I shouldn't have come."
+      },
+      "458": {
+        "start": "00:41:59,160",
+        "end": "00:42:00,240",
+        "text": "I won't anymore."
+      },
+      "459": {
+        "start": "00:42:03,400",
+        "end": "00:42:04,560",
+        "text": "I'm pregnant."
+      },
+      "460": {
+        "start": "00:42:07,480",
+        "end": "00:42:08,440",
+        "text": "Since when?"
+      },
+      "461": {
+        "start": "00:42:09,480",
+        "end": "00:42:11,720",
+        "text": "Since the last time.\n3 months ago."
+      },
+      "462": {
+        "start": "00:42:12,960",
+        "end": "00:42:14,160",
+        "text": "Does Vincent know?"
+      },
+      "463": {
+        "start": "00:42:18,040",
+        "end": "00:42:19,080",
+        "text": "What will you do?"
+      },
+      "464": {
+        "start": "00:42:22,800",
+        "end": "00:42:24,240",
+        "text": "Martin, it's his child."
+      },
+      "465": {
+        "start": "00:42:26,240",
+        "end": "00:42:27,240",
+        "text": "Not yours."
+      },
+      "466": {
+        "start": "00:42:31,120",
+        "end": "00:42:32,160",
+        "text": "You hear me?"
+      },
+      "467": {
+        "start": "00:42:45,280",
+        "end": "00:42:46,880",
+        "text": "Be careful driving home."
+      },
+      "468": {
+        "start": "00:43:42,360",
+        "end": "00:43:43,320",
+        "text": "<i>Martin?</i>"
+      },
+      "469": {
+        "start": "00:43:44,200",
+        "end": "00:43:45,160",
+        "text": "Irene."
+      },
+      "470": {
+        "start": "00:43:46,160",
+        "end": "00:43:48,600",
+        "text": "<i>The hair we found by the horse's head...</i>"
+      },
+      "471": {
+        "start": "00:43:48,760",
+        "end": "00:43:49,960",
+        "text": "<i>It's Hirtmann's.</i>"
+      },
+      "472": {
+        "start": "00:43:59,080",
+        "end": "00:44:00,400",
+        "text": "<i>Martin?</i>"
+      },
+      "473": {
+        "start": "00:44:00,560",
+        "end": "00:44:01,800",
+        "text": "I'll call you back."
+      }
+    }
+  }
+}

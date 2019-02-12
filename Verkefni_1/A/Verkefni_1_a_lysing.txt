@@ -1,0 +1,6 @@
+SRT- skrár
+Kannið uppbyggingu þessara skráa sem innihalda texta(subtitles) við myndbönd.
+
+Sérstaklega þarf að skoða hve mikið mál væri að breyta því hvenær textinn birtist á skjánum. Þannig mætti ef til vill hliðra tímanum á öllum texta eða minni köflum.
+
+Hannið ykkar eigin format með JSon og eða XML

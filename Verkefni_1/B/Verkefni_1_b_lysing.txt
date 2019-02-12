@@ -1,0 +1,4 @@
+Skrifið Python forrit sem opnar The Beatles datasettið.
+Er hægt að finna leið til að ná öllum útgáfulöndunum út úr skjalinu?
+
+Notið Vídeóin sem eru á Innu ykkur til aðstoðar.
