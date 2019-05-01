@@ -191,3 +191,7 @@ vignettes/*.pdf
 /*_files/
 
 # End of https://www.gitignore.io/api/r,macos,python
+.Rproj.user
+
+### Custom
+/APIKeys.js
