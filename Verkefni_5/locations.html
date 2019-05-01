@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <title>Google Map API Demo</title>
+    <link
+      href="https://google-developers.appspot.com/maps/documentation/javascript/examples/default.css"
+      rel="stylesheet"
+    />
+    <script src="locations.js"></script>
+    <script src="APIKeys.js"></script>
+    <script>
+      function initialize() {
+        var myLatlng = new google.maps.LatLng(64.1396203, -21.9518896);
+        var mapOptions = {
+          zoom: 3,
+          center: myLatlng,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(
+          document.getElementById("map_canvas"),
+          mapOptions
+        );
+        i = 0;
+        var markers = [];
+        for (pos in myData) {
+          i = i + 1;
+          var row = myData[pos];
+          window.console && console.log(row);
+          var newLatlng = new google.maps.LatLng(row[0], row[1]);
+          var marker = new google.maps.Marker({
+            position: newLatlng,
+            map: map,
+            title: row[2]
+          });
+
+          markers.push(marker);
+          var options = {
+            imagePath:
+              "http://rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m"
+          };
+        }
+        // var markerCluster = new MarkerClusterer(map, markers, options);
+
+        myData.forEach((element, index) => {
+          if (index != 0) {
+            var siccoMode = [
+              { lat: myData[0][0], lng: myData[0][1] },
+              { lat: element[0], lng: element[1] }
+            ];
+
+            var flightPath = new google.maps.Polyline({
+              path: siccoMode,
+              geodesic: true,
+              strokeColor: "#FF0000",
+              strokeOpacity: 1.0,
+              strokeWeight: 2
+            });
+
+            flightPath.setMap(map);
+          }
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <div id="map_canvas" style="height: 500px"></div>
+    <script>
+      var APIKey = apiKeys.GoogleMapsAPIKey;
+      var script = document.createElement("script");
+      script.async = true;
+      script.defer = true;
+      script.src =
+        "https://maps.googleapis.com/maps/api/js?key=" +
+        APIKey +
+        "&callback=initialize";
+      script.type = "text/javascript";
+      document.body.appendChild(script);
+    </script>
+  </body>
+</html>
