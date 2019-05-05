@@ -85,9 +85,36 @@ calc.iceland.dosi <- round(yearly.dosi * (iceland.pop / uk.pop)) # Iceland accid
 comp.ice.uk.df <- cbind.data.frame(calc.iceland.dosi, yearly.dosi, uk.iceland.ratio)
 
 # Setja almennileg heiti á columns
-colnames(comp.ice.uk.df) <- c("Iceland Accidents", "United Kingdom Accidents", "Population Ratio")
+colnames(comp.ice.uk.df) <- c("ICE_Accidents", "UK_Accidents", "Pop_Ratio")
 
 # Sýna niðurstöður
 comp.ice.uk.df
 
 # ----- 5. ----- #
+library(ggplot2)
+library(grid)
+
+comp.ice.uk.tbl <- tibble::rownames_to_column(comp.ice.uk.df, var = "Year")
+
+p1 <- ggplot(comp.ice.uk.tbl, aes(x=Year, y=ICE_Accidents, group=1)) +
+  geom_line(col="blue")
+p2 <- ggplot(comp.ice.uk.tbl, aes(x=Year, y=UK_Accidents, group=1)) +
+  geom_line(col="red")
+
+grid.newpage()
+grid.draw(rbind(ggplotGrob(p1), ggplotGrob(p2), size = "last"))
+
+#ggplot(comp.ice.uk.df) +
+  #blue plot
+  #geom_point(aes(x=Year, y=ICE_Accidents, col="darkblue")) + 
+  #geom_smooth(aes(x=Year, y=ICE_Accidents), fill="blue",
+  #            colour="darkblue", size=1) +
+  #red plot
+  #geom_point(aes(x=Year, y=UK_Accidents, col="red"))
+  #geom_smooth(aes(x=Year, y=UK_Accidents), fill="red",
+  #            colour="red", size=1)
+
+
+#ggplot(comp.ice.uk.df, aes(Year, group=1)) +
+#  geom_line(aes(y=ICE_Accidents, colour="ICE_Accidents")) +
+#  geom_line(aes(y=UK_Accidents, colour="UK_Accidents"))
