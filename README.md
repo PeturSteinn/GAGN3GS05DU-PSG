@@ -31,21 +31,21 @@
 
 - #### A (Íslensk gagnasett)
 
-  _60% tilbúið_  
+  _70% tilbúið_  
    Vantar alla plots og conclusion, data tilbúið
 
 - #### B (Weight loss)
-  _90% tilbúið_
+  _100% tilbúið_
   Data tilbúið en á eftir að plotta
 
 ## Verkefni 4
 
 - #### A (Plot æfing)
 
-  _0% tilbúið_
+  _100% tilbúið_ (bara leika sér)
 
 - #### B (Meira plot)
-  _0% tilbúið_
+  _100% tilbúið_
 
 ## Verkefni 5
 
