@@ -24,7 +24,23 @@ data_combined$Karlar_attacker <- as.integer(data_combined$Karlar_attacker)
 data_combined$Konur_attacker <- as.integer(data_combined$Konur_attacker)
 data_combined$Samtals <- as.integer(data_combined$Samtals)
 
-str(data_combined)
 
-summary(data_combined)
+data_combined <- data_combined %>%
+  rename(
+    Ar = Ár,
+    Manudur = Mánuður)
+
+data_combined <- data_combined %>%
+  select(-Samtals) %>%
+  filter(Manudur == "Samtals")
+# filter(!is.na(Karlar_victim) | as.character(Manudur) != "Samtals")
+
+data_combined
+# data_combined <- filter(data_combined, 4 != 3, !is.na(Karlar_victim))
+
+
+# str(data_combined)
+
+# summary(data_combined)
+
 
